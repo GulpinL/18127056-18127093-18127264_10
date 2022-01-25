@@ -1,0 +1,30 @@
+TieuDe{
+	color: #CDDC39;
+	font-size:80px;
+}
+ThongTin
+{
+	color: #CDDC39;
+	font-size:30px;
+	position: static;
+}
+.parent
+{
+
+}
+.child_Info
+{
+  position: relative;
+  top: 50px;
+}
+.child_Image
+{
+  position: absolute;
+  left: 540px;
+}
+body{
+	background-image: url('joshua-woroniecki.jpg');
+	background-position: center;
+	background-size: 100% 430%;
+	background-color: #03A9F4;
+}
