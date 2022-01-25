@@ -1,0 +1,43 @@
+h1, h2,p{
+    margin: 0;
+}
+
+h1{
+    font-size:60px;
+    margin-top: 0;
+}
+
+body {
+    margin: 0;
+}
+#main img {
+    display: block;
+    margin: 0 auto;
+}
+
+#top {
+    background-color: #60646D;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+}
+
+#bottom {
+    text-align: center;
+    font-weight: 700;
+    background-color: #00B5B5;
+    color: white;
+    line-height:30px;
+    margin-top: 30px;
+
+}
+
+#footer{
+    text-align: center;
+    font-weight: 700;
+    background-color: #bcfab3;
+    color: white;
+    line-height:30px;
+    
+}
